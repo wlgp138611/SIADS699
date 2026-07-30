@@ -1,0 +1,6 @@
+# Core notebook dependencies
+numpy<2
+pandas
+matplotlib
+scikit-learn
+xgboost
