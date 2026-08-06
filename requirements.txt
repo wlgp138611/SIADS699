@@ -1,6 +1,9 @@
-# Core notebook dependencies
+# dependencies
 numpy<2
 pandas
 matplotlib
 scikit-learn
 xgboost
+fastapi
+uvicorn
+joblib
